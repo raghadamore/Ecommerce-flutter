@@ -86,7 +86,17 @@ A full-featured e-commerce mobile application built with Flutter, Firebase, and 
 - GetX (State Management)  
 - SharedPreferences  
 ##screenshots
-<![login]()>
+<![login](login.jpg)>
+<![signin](signin.jpg)>
+<![home](home.jpg)>
+<![shop](shop.jpg)>
+<![wishlist](wishlist.jpg)>
+<![login](login.jpg)>
+<![prodact](prodact.jpg)>
+<![prodact_details](prodact_details.jpg)>
+<![cart](cart.jpg)>
+<![address](address.jpg)>
+<![profile](profile.jpg)>
 ---
 
 ## 🏗️ Architecture (MVVM)
